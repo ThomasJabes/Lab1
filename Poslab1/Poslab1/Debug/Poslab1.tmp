@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\Debug\Poslab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Poslab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Poslab1.map</FILE>
+  <FILE>Poslab1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>19</LINE></SETUP>
+  <SETUP_IO><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>32</LINE></SETUP_IO>
+  <MAIN_LOOP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>64</LINE></MAIN_LOOP>
+  <CONTADOR1><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>113</LINE></CONTADOR1>
+  <CONTADOR2><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>122</LINE></CONTADOR2>
+  <MOSTRAR_SUMA><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>90</LINE></MOSTRAR_SUMA>
+  <NO_CARRY><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>103</LINE></NO_CARRY>
+  <FIN_SUMA><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>105</LINE></FIN_SUMA>
+  <DELAY><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>169</LINE></DELAY>
+  <ESPERAR_SUMA><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>204</LINE></ESPERAR_SUMA>
+  <INCREMENTO1><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>132</LINE></INCREMENTO1>
+  <DECREMENTO1><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>139</LINE></DECREMENTO1>
+  <INCREMENTO2><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>150</LINE></INCREMENTO2>
+  <DECREMENTO2><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>157</LINE></DECREMENTO2>
+  <ESPERAR1><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>180</LINE></ESPERAR1>
+  <NO_UNDERFLOW1><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>144</LINE></NO_UNDERFLOW1>
+  <ESPERAR2><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>192</LINE></ESPERAR2>
+  <NO_UNDERFLOW2><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>163</LINE></NO_UNDERFLOW2>
+  <DELAY_LOOP><FILE>C:\Users\thoma\OneDrive\Desktop\Micros2025\PosLab1\Poslab1\Poslab1\main.asm</FILE><LINE>171</LINE></DELAY_LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
